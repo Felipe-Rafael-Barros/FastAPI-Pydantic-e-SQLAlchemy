@@ -1,8 +1,9 @@
 #Felipe Rafael Barros da Silva
 
-# 1) De start no terminal: uvicorn main:app --reload
-# 2) Para realizar o test, vá ao diretório principal("Projeto Dcifre") e execute "pytest -v"
-# 3) Para consultas manuais: http://localhost:8000/docs#/
+# 1) Ative:  #venv\Scripts\activate
+# 2) De start no terminal: uvicorn main:app --reload
+# 3) Para realizar o test, vá ao diretório principal("dcifre-obrigacoes-api") e execute "pytest -v"
+# 4) Para consultas manuais: http://localhost:8000/docs#/
 
 from fastapi import FastAPI, Depends, HTTPException
 from sqlalchemy.orm import Session
