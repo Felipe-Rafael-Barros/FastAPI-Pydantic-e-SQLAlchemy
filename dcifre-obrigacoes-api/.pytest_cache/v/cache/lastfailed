@@ -1,0 +1,6 @@
+{
+  "test_main.py::test_create_empresa": true,
+  "test_main.py::test_read_empresa": true,
+  "test_main.py::test_read_obrigacao": true,
+  "test_read_empresa.py::test_get_empresa": true
+}
