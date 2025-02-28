@@ -1,4 +1,4 @@
-# Prova de Seleção de Estágio - FastAPI, Pydantic e SQLAlchemy
+# Prova de Seleção de Estágio - FastAPI, Pydantic, SQLAlchemy e PostgreSQL 
 
 Este repositório contém a implementação de uma API simples desenvolvida como parte de uma prova de seleção para estágio. A API foi construída utilizando **FastAPI**, **Pydantic** e **SQLAlchemy**, com o objetivo de cadastrar empresas e gerenciar obrigações acessórias que essas empresas precisam declarar para o governo.
 
